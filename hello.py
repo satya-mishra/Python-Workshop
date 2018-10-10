@@ -1,2 +1,2 @@
-print ("hello world")
-print (1+3)
+answer = input("Enter Your Name:")
+print(answer)
